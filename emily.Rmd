@@ -1,0 +1,11 @@
+---
+title: "Emily"
+date: "3/1/2021"
+output: html_document
+---
+
+# About me 
+
+- From Reading, PA
+- PhD student in Soil and Crop Sciences at Cornell
+- Enjoys riding horses, hiking, and cooking
