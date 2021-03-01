@@ -1,11 +1,9 @@
 ---
-title: "nicole.Rmd"
-author: "Nicole Foley"
+title: "Nicole"
 date: "2/26/2021"
 output: html_document
 ---
 
-# Nicole Foley
 * I am a first year masters student in vector borne diseases within the entomology department.
 * This summer I will be conducting research on an emerging tick borne pathogen.
 * This summer I will also be working on a tick blitz which will be a citizen science event in the Lower Hudson Valley region.
