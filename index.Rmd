@@ -10,4 +10,5 @@ Nicole Foley <https://github.com/NicoleF01>
 Emily Urban <https://github.com/eurban8>
 
 
-![Adirondacks from a hike I did in October](C:\\Users\\Nicole\\Pictures\\adk.jpg)
+![Adirondacks from a hike I did in October](C:/Users/Nicole/Pictures/adk.jpg)
+
