@@ -10,7 +10,7 @@ navbar:
     - text: "Extras"
       href: extras.html
       
-    output:
+  output:
     html_document:
     theme: cerulean
     highlight: textmate
