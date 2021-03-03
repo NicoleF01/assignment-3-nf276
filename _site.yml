@@ -7,3 +7,5 @@ navbar:
       href: nicole.html
     - text: "Emily"
       href: emily.html
+    - text: "Extras"
+      href: extras.html
